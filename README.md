@@ -1,4 +1,4 @@
-# Expense-Tracker mini
+<img width="1920" height="1080" alt="Screenshot from 2026-03-24 21-22-35" src="https://github.com/user-attachments/assets/792d8d22-13a8-44da-925c-ad042d384612" /># Expense-Tracker mini
 # 💰 Expense Tracker (React + Tailwind)
 
 A simple and clean **Expense Tracker Web App** built using **React.js** and **Tailwind CSS**.
@@ -88,6 +88,9 @@ src/
 
 This is a **frontend-only project**.
 No backend or database is used — all data is stored in the browser.
+
+<img width="1920" height="1080" alt="Screenshot from 2026-03-24 21-22-35" src="https://github.com/user-attachments/assets/f135e3e5-02b6-4347-a196-7b2236fb3535" />
+
 
 ---
 
