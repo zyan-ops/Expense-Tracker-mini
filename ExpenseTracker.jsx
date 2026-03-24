@@ -1,6 +1,4 @@
 import React, { useState, useEffect } from 'react'
-import Button from './DeleteButton'
-import Input from './InputButton'
 
 const ExpenseTracker = () => {
 
